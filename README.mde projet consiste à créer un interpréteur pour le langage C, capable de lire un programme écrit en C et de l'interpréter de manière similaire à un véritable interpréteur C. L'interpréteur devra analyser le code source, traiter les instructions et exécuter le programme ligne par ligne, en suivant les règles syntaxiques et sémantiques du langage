@@ -1,0 +1,1 @@
+e projet consiste à créer un interpréteur pour le langage C, capable de lire un programme écrit en C et de l'interpréter de manière similaire à un véritable interpréteur C. L'interpréteur devra analyser le code source, traiter les instructions et exécuter le programme ligne par ligne, en suivant les règles syntaxiques et sémantiques du langage 
